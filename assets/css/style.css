@@ -950,7 +950,7 @@ section.pricing{
 
 .review {
   background-color: var(--white);
-  margin-left: 420px;
+  margin-left: 0px;
   font-size: 2rem;
   
 }
@@ -1025,25 +1025,6 @@ section.pricing{
   color: var(--coquelicot);
   cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

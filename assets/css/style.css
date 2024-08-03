@@ -1642,7 +1642,7 @@ section.pricing{
    * CLASS, BLOG
    */
 
-  :is(.class-card, .blog-card) .card-content { padding: 30px; }
+  :is(.class-card, .blog-card, .pricing-card) .card-content { padding: 30px; }
 
   .blog-card .card-meta { padding: 15px 30px; }
 
